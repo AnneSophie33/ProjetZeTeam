@@ -2,10 +2,9 @@ test coucou
 
 hey coucou toi !
 
-<<<<<<< Updated upstream
+
 test de branche, et tester le pull request !
-=======
 test de branche
 
 
->>>>>>> Stashed changes
+<<<<<<TEST ANSO>>>>>>>>
